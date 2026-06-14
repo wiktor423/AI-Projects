@@ -1,4 +1,4 @@
-# Artificial Intelligence Projects (EARIN)
+# Artificial Intelligence Projects 
 
 A collection of miniprojects developed for a university course covering various topics in Artificial Intelligence.
 
